@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UrTubee</title>
+
+    <style>
+        body {
+            background-color:rgb(104, 177, 31);
+        }
+        .logo {
+            display: block;
+            width: 200px;
+            height: 100px;
+        }
+        .thumbnail {
+            display: block;
+            width: 200px;
+            height: 125px;
+
+        }
+        table {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            height: 50%;
+          width: 50%;
+        }
+        p {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+        }
+
+    </style>
+</head>
+<body>
+    <a href="home"><img src="urtubee_logo.png" alt="urtubee_logo" class="logo"></a>
+    <br>
+    <table>
+    <tr>
+        <td><a href="watch=f1_hire_me_fr"><img class="thumbnail" src="lobotomy_lol.png"></a><p>lobotomy lol</p></td>
+        <td><a href="watch=f1_hire_me_fr"><img class="thumbnail" src="f1_hire_me_fr.png"></a><p>f1 hire me fr</p></td>
+        <td><a href="watch=f1_hire_me_fr"><img class="thumbnail" src="guest_jump_1x.png"></a><p>guest jump 1x</p></td>
+    </tr>
+    <tr>
+        <td><a href="watch=f1_hire_me_fr"><img class="thumbnail" src="philipeans.png"></a><p>philipeans</p></td>
+        <td><a href="watch=f1_hire_me_fr"><img class="thumbnail" src="wait.png"></a><p>wait</p></td>
+        <td></td>
+    </tr>
+    </table>
+</body>
+</html>
