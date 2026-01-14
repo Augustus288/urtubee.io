@@ -35,7 +35,7 @@
     </style>
 </head>
 <body>
-    <a href="home"><img src="urtubee_logo.png" alt="urtubee_logo" class="logo"></a>
+    <a href="main"><img src="urtubee_logo.png" alt="urtubee_logo" class="logo"></a>
     <br>
     <table>
     <tr>
@@ -50,4 +50,5 @@
     </tr>
     </table>
 </body>
+
 </html>
